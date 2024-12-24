@@ -1,1 +1,3 @@
-# Data-Viz
+In this work, data was collected from 14 Micro-Climate 
+sensors in a strawberry greenhouse of approximately 100 square meters in size near Portsmouth, UK. This dataset contains air temperature, air humidity, and measure of leaf 
+temperature readings, across 14 sensors. These environmental factors were examined to gain valuable insights and understand their contributions to strawberry production. Additionally, the sensor readings throughout the months were examined to unveil any irregularities or incorrect measurements. By conducting exploratory analysis, distinct patterns, and anomalies within the dataset were unveiled and displayed via various plots. This subsequently shaped the research questions discussed in this paper.
